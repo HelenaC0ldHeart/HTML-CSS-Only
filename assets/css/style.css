@@ -1,7 +1,7 @@
 /* Components */
 @import "./header.css";
 @import "./btn.css";
-
+@import "./main.css";
 
 /* Reset CSS */
 
@@ -10,6 +10,7 @@
     padding: 0;
     border: 0;
     font-size: 100%;
+    font-weight: 300;
     font: inherit;
     vertical-align: baseline;
     font-family: "Source Sans Pro",sans-serif;
