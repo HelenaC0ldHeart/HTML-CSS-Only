@@ -2,6 +2,7 @@
 @import "./header.css";
 @import "./btn.css";
 @import "./main.css";
+@import "./footer.css";
 
 /* Reset CSS */
 
@@ -15,6 +16,7 @@
     vertical-align: baseline;
     font-family: "Source Sans Pro",sans-serif;
     text-decoration: none;
+    list-style: none;
 }
 
 .container {
@@ -28,3 +30,12 @@
     display: flex;
     flex-direction: row;
 }
+
+body {
+    background-image: url(../images/bolha-background.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+
+
